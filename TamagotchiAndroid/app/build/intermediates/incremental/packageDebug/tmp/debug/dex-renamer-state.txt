@@ -1,0 +1,4 @@
+#Thu Oct 17 12:17:10 EEST 2019
+base.0=C\:\\Users\\arttu\\Desktop\\Kurssit\\Sys Prog\\lab3\\TamagotchiAndroid\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
